@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\bin\Debug\net10.0\ConsoleAppVSC.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\bin\Debug\net10.0\ConsoleAppVSC.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\bin\Debug\net10.0\ConsoleAppVSC.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\bin\Debug\net10.0\ConsoleAppVSC.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\bin\Debug\net10.0\ConsoleAppVSC.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ConsoleAppVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ConsoleAppVSC.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ConsoleAppVSC.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ConsoleAppVSC.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ConsoleAppVSC.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\refint\ConsoleAppVSC.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ConsoleAppVSC.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ConsoleAppVSC.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionVSC\ConsoleAppVSC\obj\Debug\net10.0\ref\ConsoleAppVSC.dll

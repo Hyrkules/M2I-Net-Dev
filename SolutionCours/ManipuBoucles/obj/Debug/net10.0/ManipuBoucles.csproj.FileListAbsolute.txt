@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\bin\Debug\net10.0\ManipuBoucles.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\bin\Debug\net10.0\ManipuBoucles.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\bin\Debug\net10.0\ManipuBoucles.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\bin\Debug\net10.0\ManipuBoucles.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\bin\Debug\net10.0\ManipuBoucles.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ManipuBoucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ManipuBoucles.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ManipuBoucles.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ManipuBoucles.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ManipuBoucles.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\refint\ManipuBoucles.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ManipuBoucles.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ManipuBoucles.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\SolutionCours\ManipuBoucles\obj\Debug\net10.0\ref\ManipuBoucles.dll
