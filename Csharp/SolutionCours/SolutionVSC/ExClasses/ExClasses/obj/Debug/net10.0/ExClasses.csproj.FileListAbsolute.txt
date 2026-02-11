@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ExClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ExClasses.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ExClasses.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ExClasses.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\bin\Debug\net10.0\ExClasses.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\bin\Debug\net10.0\ExClasses.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\bin\Debug\net10.0\ExClasses.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\bin\Debug\net10.0\ExClasses.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\bin\Debug\net10.0\ExClasses.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ExClasses.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\refint\ExClasses.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ExClasses.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ExClasses.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExClasses\obj\Debug\net10.0\ref\ExClasses.dll

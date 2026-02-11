@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\bin\Debug\net10.0\DemoDesignPattern.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\bin\Debug\net10.0\DemoDesignPattern.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\bin\Debug\net10.0\DemoDesignPattern.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\bin\Debug\net10.0\DemoDesignPattern.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\bin\Debug\net10.0\DemoDesignPattern.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\DemoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\DemoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\DemoDesignPattern.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\DemoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\DemoDesignPattern.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\refint\DemoDesignPattern.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\DemoDesignPattern.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\DemoDesignPattern.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\DemoDesignPattern\obj\Debug\net10.0\ref\DemoDesignPattern.dll

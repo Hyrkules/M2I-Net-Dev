@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\bin\Debug\net10.0\EUUH.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\bin\Debug\net10.0\EUUH.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\bin\Debug\net10.0\EUUH.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\bin\Debug\net10.0\EUUH.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\bin\Debug\net10.0\EUUH.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\EUUH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\EUUH.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\EUUH.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\EUUH.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\EUUH.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\refint\EUUH.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\EUUH.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\EUUH.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\EUUH\EUUH\obj\Debug\net10.0\ref\EUUH.dll

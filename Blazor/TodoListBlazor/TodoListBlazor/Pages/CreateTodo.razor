@@ -1,0 +1,118 @@
+﻿@page "/todos/create"
+@using TodoListBlazor.Dtos
+@using TodoListBlazor.Services
+
+@inject IAuthService AuthService
+@inject NavigationManager Navigation
+@inject ITodoService TodoService
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white">
+                    <h4 class="mb-0">Créer une nouvelle tâche</h4>
+                </div>
+                <div class="card-body">
+
+                    @if (!string.IsNullOrEmpty(errorMessage)){
+                        <div class="alert alert-danger">@errorMessage</div>
+                    }
+
+                    <EditForm Model="newTodo" OnValidSubmit="HandleSubmit">
+                        <DataAnnotationsValidator />
+                        <div class="mb-3">
+                            <label class="from-label">Titre <span class="text-danger">*</span></label>
+                            <InputText class="form-control"
+                                placeholder="Ex : Faire les courses" 
+                                @bind-Value="@newTodo.Title" />
+                            <ValidationMessage For="@(() => newTodo.Title)" class="text-danger" />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="from-label">Description</label>
+                            <InputTextArea class="form-control"
+                                placeholder="Ex : Acheter tous les éléments de la liste . . ." 
+                                           @bind-Value="@newTodo.Description" />
+                            <ValidationMessage For="@(() => newTodo.Description)" class="text-danger"  />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="from-label">Priorité</label>
+                            <InputSelect class="form-select" @bind-Value="newTodo.Priority">
+                                <option value="">Sélectionner une priorité</option>
+                                <option value="1">Basse</option>
+                                <option value="2">Moyenne</option>
+                                <option value="3">Urgente</option>
+                            </InputSelect>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Date Limite</label>
+                            <InputDate class="form-control" @bind-Value="@newTodo.DueDate" />
+                        </div>
+
+                        <div class="d-flex gap-2 justify-content-end">
+                            <a href="/dashboard" class="btn btn-secondary">Annuler</a>
+                            <button class="btn btn-success" type="submit" disabled="@isSubmitting">
+                                @if (isSubmitting)
+                                {
+                                    <span class="spinner-border spinner-border-sm me-2"></span>
+                                }
+                                Créer la tâche
+                            </button>
+                        </div>
+
+                    </EditForm>
+</div>
+                    
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
+
+    @code {
+        private CreateTodoDto newTodo = new();
+        private bool isSubmitting = false;
+        private string? errorMessage;
+
+        protected async override Task OnInitializedAsync()
+        {
+            var isAuthenticate = await AuthService.IsAuthenticatedAsync();
+            if(!isAuthenticate)
+            {
+                Navigation.NavigateTo("/Auth/LoginPage");
+            };
+        }
+
+        private async Task HandleSubmit()
+        {
+            isSubmitting = true;
+            errorMessage = null;
+
+            try
+            {
+                var created = await TodoService.CreateAsync(newTodo);
+
+                if(created != null)
+                {
+                Navigation.NavigateTo("/dashboard");
+                }
+                else
+                {
+                errorMessage = "Une erreur est survenue lors de la création de la tâche.";
+                }
+            }
+            catch (Exception ex)
+            {
+                errorMessage = $"Erreur : {ex.Message}";
+            }
+            finally
+            {
+                isSubmitting = false;
+            }
+        }
+}

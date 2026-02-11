@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\bin\Debug\net10.0\GestionBilletsEvent.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\bin\Debug\net10.0\GestionBilletsEvent.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\bin\Debug\net10.0\GestionBilletsEvent.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\bin\Debug\net10.0\GestionBilletsEvent.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\bin\Debug\net10.0\GestionBilletsEvent.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\GestionBilletsEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\GestionBilletsEvent.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\GestionBilletsEvent.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\GestionBilletsEvent.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\GestionBilletsEvent.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\refint\GestionBilletsEvent.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\GestionBilletsEvent.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\GestionBilletsEvent.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\GestionBilletsEvent\obj\Debug\net10.0\ref\GestionBilletsEvent.dll

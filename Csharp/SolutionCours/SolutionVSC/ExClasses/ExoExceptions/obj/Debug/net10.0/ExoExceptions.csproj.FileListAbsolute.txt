@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\bin\Debug\net10.0\ExoExceptions.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\bin\Debug\net10.0\ExoExceptions.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\bin\Debug\net10.0\ExoExceptions.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\bin\Debug\net10.0\ExoExceptions.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\bin\Debug\net10.0\ExoExceptions.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ExoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ExoExceptions.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ExoExceptions.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ExoExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ExoExceptions.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\refint\ExoExceptions.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ExoExceptions.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ExoExceptions.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoExceptions\obj\Debug\net10.0\ref\ExoExceptions.dll

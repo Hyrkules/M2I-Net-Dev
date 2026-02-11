@@ -1,0 +1,39 @@
+﻿@page "/databiding"
+
+<h3 class="text-center text-danger">One way binding : c# to html</h3>
+
+<p>Compteur = <strong>@compteur</strong></p>
+<p>Message = @message</p>
+
+<hr />
+
+<h3 class="text-center text-danger">Event binding : HTML to c#</h3>
+
+<p>Compteur = <strong>@compteur2</strong></p>
+
+<button class="btn btn-primary" @onclick="Incrementer">+ Incrémenter</button>
+<button class="btn btn-secondary" @onclick="Decrementer">- Décrémenter</button>
+
+
+<h3 class="text-center text-danger">To way biding : C# &lt;=> HTML</h3>
+
+<p>Tapez votre recherche</p>
+<input type="text" class="form-control" @bind="recherche" />
+
+<p>Vous cherchez : <strong>@recherche</strong></p>
+
+@code{
+    private string recherche = "";
+    private int compteur = 0;
+    private string message = "Bonjour !";
+
+    private int compteur2 = 0;
+    public void Incrementer()
+    {
+        compteur2++;
+    }
+    public void Decrementer()
+    {
+        compteur2--;
+    }
+}

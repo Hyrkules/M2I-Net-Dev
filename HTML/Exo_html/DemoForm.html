@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaires</title>
+</head>
+
+<body>
+    
+    <form action="/home/Inscription" method="post">
+        <div>
+            <label for="nom">Nom : </label>
+            <input id="nom" type="text" placeholder="Nom">
+        </div>
+        <div>
+            <label for="prenom">Prenom <sup>*</sup> : </label>
+            <input id="prenom" type="text" required placeholder="Prenom">
+        </div>
+        <div>
+            <label for="age">Age <sup>*</sup></label>
+            <input type="number">
+        </div>
+        <div>
+            <label for="email">Email</label>
+            <input type="email" id="mail">
+        </div>
+        <div>
+            <label for="tel">Telephone</label>
+            <input type="tel" id="tel">
+        </div>
+        <div>
+            <label for="quantite">Quantité</label>
+            <input type="range" min="0" max="100" step="10" id="quantite">
+        </div>
+
+        <div>
+            <label for="ok"> IS OK ?</label>
+            <input type="checkbox" id="ok" checked>
+        </div>
+
+        <fieldset>
+            <legend>Livraison</legend>
+            <div>
+                <label for="place">Sur place</label>
+                <input type="radio" id="surplace" name="livraison" value="sur-place">
+            </div>
+            <div>
+                <label for="place">A emporter</label>
+                <input type="radio" id="emporter" name="livraison" value="a-emporter">
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Crudités</legend>
+            <div>
+                <label for="tomate">Tomates</label>
+                <input type="checkbox" id="tomate" name="crud" value="tomates">
+            </div>
+            <div>
+                <label for="salade">Salade</label>
+                <input type="checkbox" id="salade" name="crud" value="salade">
+            </div>
+            <div>
+                <label for="oignon">Oignons</label>
+                <input type="checkbox" id="oignon" name="crud" value="oignons">
+            </div>
+        </fieldset>
+
+        <div>
+            <label for="animal">Quel est votre animal pref ?</label>
+            <select id="animal">
+                <option value="croco">Alligator</option>
+                <option value="requin">Requin</option>
+                <option value="mantes">Mante religieuse</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="date">Date de Livraison</label>
+            <input type="date" id="date" min="2025-04-01" max="2027-01-01">
+        </div>
+
+        <div>
+            <label for="heure">Heure de livraison</label>
+            <input type="time" id="heure" min="08:00" max="20:00">
+        </div>
+
+        <div>
+            <label for="mytextarea">Zone de texte</label>
+            <textarea id="mytextarea">Default message</textarea>
+        </div>
+
+        <div>
+            <button type="reset">Reset</button>
+            <button type="submit">Envoyer</button>
+        </div>
+
+    </form>
+    
+</body>
+</html>

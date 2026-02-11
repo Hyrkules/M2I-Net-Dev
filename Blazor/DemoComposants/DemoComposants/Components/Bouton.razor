@@ -1,0 +1,17 @@
+﻿<button class="btn btn-@Couleur" @onclick="HandleClick">@Texte</button>
+
+@code {
+    [Parameter]
+    public string Texte { get; set; } = "Cliquer";
+
+    [Parameter]
+    public string Couleur { get; set; } = "primary";
+
+    [Parameter]
+    public EventCallback<string> OnClick { get; set; }
+
+    private async Task HandleClick()
+    {
+        await OnClick.InvokeAsync(Texte);
+    }
+}

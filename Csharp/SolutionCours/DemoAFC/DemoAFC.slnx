@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="048b13b7-ae9f-4245-9bcf-74b148ae6ce1" />
+  <Project Path="DemoAFC/DemoAFC.csproj" />
+  <Project Path="ExoEFC/ExoEFC.csproj" />
+  <Project Path="VideoStoreExo/VideoStoreExo.csproj" />
+</Solution>

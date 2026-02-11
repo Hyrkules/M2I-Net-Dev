@@ -1,0 +1,62 @@
+﻿@page "/Syntaxe"
+@inherits LayoutComponentBase
+
+<PageTitle>Syntaxes</PageTitle>
+
+<div class="page">
+    <div class="sidebar">
+        <nav class="col-md-3 col-lg-2 bg-dark min-vh-100 p-0">
+            <div class="p-3">
+                <h5 class="text-white mb-4">📚 Syntaxe Razor</h5>
+
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link text-white py-2" href="/syntaxe/variables">
+                            📝 Variables
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white py-2" href="/syntaxe/conditions">
+                            🔀 Conditions
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white py-2" href="/syntaxe/boucles">
+                            🔄 Boucles
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white py-2" href="/syntaxe/evenements">
+                            🖱️ Événements
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white py-2" href="/syntaxe/binding">
+                            🔗 Binding
+                        </a>
+                    </li>
+                </ul>
+
+                <hr class="border-secondary my-4" />
+                <a class="nav-link text-secondary" href="/">← Retour accueil</a>
+            </div>
+        </nav>
+    </div>
+    <main>
+    <div>
+
+            @Body
+    </div>
+    </main>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

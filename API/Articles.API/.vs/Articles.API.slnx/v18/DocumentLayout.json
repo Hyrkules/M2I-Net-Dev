@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\Articles.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F873FD-A3AE-ED69-B620-39B401AF04B3}|Articles.API\\Articles.API.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\api\\articles.api\\articles.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F873FD-A3AE-ED69-B620-39B401AF04B3}|Articles.API\\Articles.API.csproj|solutionrelative:articles.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F873FD-A3AE-ED69-B620-39B401AF04B3}|Articles.API\\Articles.API.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\api\\articles.api\\articles.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F873FD-A3AE-ED69-B620-39B401AF04B3}|Articles.API\\Articles.API.csproj|solutionrelative:articles.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F873FD-A3AE-ED69-B620-39B401AF04B3}|Articles.API\\Articles.API.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\api\\articles.api\\articles.api\\data\\dbfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F873FD-A3AE-ED69-B620-39B401AF04B3}|Articles.API\\Articles.API.csproj|solutionrelative:articles.api\\data\\dbfake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\Articles.API\\Articles.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Articles.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\Articles.API\\Articles.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "Articles.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:20:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbFake.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\Articles.API\\Articles.API\\Data\\DbFake.cs",
+              "RelativeDocumentMoniker": "Articles.API\\Data\\DbFake.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\Articles.API\\Articles.API\\Data\\DbFake.cs",
+              "RelativeToolTip": "Articles.API\\Data\\DbFake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:19:26.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\Articles.API\\Articles.API\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "Articles.API\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\Articles.API\\Articles.API\\Services\\PasswordService.cs",
+              "RelativeToolTip": "Articles.API\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:08:37.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

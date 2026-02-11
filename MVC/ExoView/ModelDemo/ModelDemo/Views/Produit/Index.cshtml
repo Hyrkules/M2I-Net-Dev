@@ -1,0 +1,27 @@
+﻿@model List<Produit>
+
+<h1>@ViewData["Title"]</h1>
+
+<a  asp-controller="ProduitFormulaire" asp-action="Creer">Créer un nouveau produit !</a>
+
+@if(Model == null || Model.Count == 0)
+{
+    <p>Aucun produit disponible.</p>
+    return;
+}else{
+
+
+<h2>@Model.Count produit(s)</h2>
+
+<table class="table">
+    @foreach (var produit in Model)
+    {
+        <tr>
+            <td>@produit.Id</td>
+                <td><a asp-controller="Produit" asp-action="Details/@produit.Id.ToString()">@produit.Name</a></td>
+            <td class=@produit.PriceCssClass>@produit.Prix.ToString("C")</td>
+            <td class=@produit.StockCssClass>@produit.Stock</td>
+        </tr>
+    }
+</table>
+}

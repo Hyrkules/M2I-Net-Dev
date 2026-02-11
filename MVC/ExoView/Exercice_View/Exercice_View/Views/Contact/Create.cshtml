@@ -1,0 +1,30 @@
+﻿@model ContactForm
+
+@{
+    ViewData["Title"] = "Créer un utilisateur";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-controller="Contact" asp-action="Index" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-label" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-label" />
+    </div>
+    <div class="mb-3">
+        <textarea asp-for="Message" class="form-label"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Subject" class="form-label"></label>
+        <select asp-for="Subject" asp-items="ViewBag.pays" class="form-select">
+            <option value="">--Choisir un sujet--</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary" action="Index">Créer</button>
+</form>

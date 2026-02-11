@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\CompteBancaireApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\CompteBancaireApp.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\CompteBancaireApp.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\CompteBancaireApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\bin\Debug\net10.0\CompteBancaireApp.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\bin\Debug\net10.0\CompteBancaireApp.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\bin\Debug\net10.0\CompteBancaireApp.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\bin\Debug\net10.0\CompteBancaireApp.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\bin\Debug\net10.0\CompteBancaireApp.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\CompteBancaireApp.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\refint\CompteBancaireApp.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\CompteBancaireApp.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\CompteBancaireApp.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\CompteBancaireApp\obj\Debug\net10.0\ref\CompteBancaireApp.dll

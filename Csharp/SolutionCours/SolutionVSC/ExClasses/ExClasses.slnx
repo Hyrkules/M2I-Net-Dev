@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CompteBancaireApp/CompteBancaireApp.csproj" />
+  <Project Path="ExoExceptions/ExoExceptions.csproj" Id="a468cb18-5977-400b-8baf-3787061238b5" />
+  <Project Path="ExoGestionPaiement/ExoGestionPaiement.csproj" />
+  <Project Path="GestionBilletsEvent/GestionBilletsEvent.csproj" />
+</Solution>

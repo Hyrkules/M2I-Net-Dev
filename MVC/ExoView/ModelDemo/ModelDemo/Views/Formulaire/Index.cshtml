@@ -1,0 +1,38 @@
+﻿@model Formulaire
+
+@{
+    ViewData["Title"] = "Créer un utilisateur";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-controller="Formulaire" asp-action="Index" method="post">
+    <div class="mb-3">
+        <label asp-for="Nom" class="form-label"></label>
+        <input asp-for="Nom" class="form-label" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-label" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Sujet" class="form-label"></label>
+        <input asp-for="Sujet" class="form-label" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label"></label>
+        <input asp-for="Phone" class="form-label" />
+    </div>
+    <div class="mb-3">
+        <textarea asp-for="Message" class="form-label"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Urgency" class="form-label"></label>
+        <select asp-for="Urgency" asp-items="ViewBag.UrgencyOptions" class="form-select">
+            <option value="">--Choisir un sujet--</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary" action="Index">Créer</button>
+</form>

@@ -1,0 +1,48 @@
+﻿@page "/demoeventcallback"
+
+<h1>EventCallback : Communication Enfant => Parent</h1>
+
+<hr />
+
+<h2>Résultat : @resultat </h2>
+
+<div class="d-flex gap-2">
+    <Bouton Texte="Ajouter" Couleur="success" OnClick="AjouterClic" />
+    <Bouton Texte="Modifier" Couleur="warning" OnClick="ModifierClic" />
+    <Bouton Texte="Supprimer" Couleur="danger" OnClick="SupprimerClic" />
+</div>
+
+<hr />
+
+<h1>EventCallback avec des données : Communication Enfant => Parent</h1>
+
+<h2>Résultat : @derniereAction </h2>
+
+<div class="d-flex gap-2">
+    <Bouton Texte="Ajouter" Couleur="success" OnClick="ActionApplique" />
+    <Bouton Texte="Modifier" Couleur="warning" OnClick="ActionApplique" />
+    <Bouton Texte="Supprimer" Couleur="danger" OnClick="ActionApplique" />
+</div>
+
+
+@code {
+    private string resultat = "aucune action";
+    private string derniereAction = "aucune action";
+
+    private void ActionApplique(string texte)
+    {
+        derniereAction = $"Vous avez cliqué sur : {texte}";
+    }
+    private void AjouterClic()
+    {
+        resultat = "Ajout en cours. . .";
+    }
+    private void ModifierClic()
+    {
+        resultat = "Modification en cours. . .";
+    }
+    private void SupprimerClic()
+    {
+        resultat = "Suppression en cours. . .";
+    }
+}

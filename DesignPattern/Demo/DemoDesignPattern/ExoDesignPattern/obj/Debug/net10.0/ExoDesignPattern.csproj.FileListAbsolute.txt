@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ExoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ExoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ExoDesignPattern.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ExoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\bin\Debug\net10.0\ExoDesignPattern.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\bin\Debug\net10.0\ExoDesignPattern.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\bin\Debug\net10.0\ExoDesignPattern.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\bin\Debug\net10.0\ExoDesignPattern.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\bin\Debug\net10.0\ExoDesignPattern.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ExoDesignPattern.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\refint\ExoDesignPattern.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ExoDesignPattern.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ExoDesignPattern.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\ExoDesignPattern\obj\Debug\net10.0\ref\ExoDesignPattern.dll

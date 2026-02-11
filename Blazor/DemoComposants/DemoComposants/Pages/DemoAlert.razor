@@ -1,0 +1,38 @@
+﻿@page "/demoAlert"
+
+<h1>Demo Alert</h1>
+
+<Alert message="Opération réussie !" />
+<Alert message="Attention, fichier volumineux" />
+<Alert message="Erreur de connexion" />
+
+@if (afficherSuccess)
+{
+    <Alert message="Tâche ajoutée avec succès" type="success" OnClose="FermerSuccess" />
+}
+@if (afficherErreur)
+{
+    <Alert message="Impossible de supprimer" type="danger" OnClose="FermerErreur" />
+}
+
+<button class="btn btn-primary" @onclick="AfficherTout">Réafficher les alertes</button>
+
+
+@code {
+    private bool afficherSuccess = true;
+    private bool afficherErreur = true;
+
+    private void FermerSuccess()
+    {
+        afficherSuccess = false;
+    }
+    private void FermerErreur()
+    {
+        afficherErreur = false;
+    }
+    private void AfficherTout()
+    {
+        afficherErreur = true;
+        afficherSuccess = true;
+    }
+}

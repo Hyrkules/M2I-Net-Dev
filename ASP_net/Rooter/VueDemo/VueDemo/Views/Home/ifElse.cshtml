@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "La page IF ELSE";
+    var isConnected = true;
+    var stock = 5;
+}
+
+@if(isConnected)
+{
+    <p>Bienvenue utilisateur connecté</p>
+@if(stock > 0)
+{
+        <span class="badge bg-success">Le produit est en stock</span>
+}
+else
+    {
+        <span class="badge bg-danger">Le produit est en rupture de stock</span>
+}
+}
+else
+{
+    <p>Bienvenue invité, veuillez vous connecter</p>
+}

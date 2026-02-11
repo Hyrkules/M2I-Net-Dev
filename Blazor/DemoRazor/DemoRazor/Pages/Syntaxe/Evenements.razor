@@ -1,0 +1,25 @@
+﻿@page "/syntaxe/evenements"
+@layout SyntaxeLayout
+
+<h3>Evenements</h3>
+
+
+<p>Valeur : @compteur2</p>
+<boutton class="btn btn-success" @onclick="() => Ajouter(5)">+5 🦃</boutton>
+<boutton class="btn btn-success" @onclick="() => Ajouter(-1)">-1 🦃</boutton>
+<boutton class="btn btn-success" @onclick="() => RetourAZero()">Reset</boutton>
+
+@code {
+    private int compteur2 = 0;
+
+    public void Ajouter(int valeur)
+    {
+        compteur2 += valeur;
+    }
+
+    public void RetourAZero()
+    {
+        compteur2 = 0;
+    }
+
+}

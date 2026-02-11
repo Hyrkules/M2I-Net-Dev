@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Beucherie Helouri – Data Scientist</title>
+  <style>
+    :root {
+      --primary: #d97a6a;
+      --dark: #222;
+      --gray: #666;
+      --bg: #fafafa;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--dark);
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 2rem 1.5rem;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      border-bottom: 3px solid var(--primary);
+      padding-bottom: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.2rem;
+      color: var(--primary);
+    }
+
+    header h2 {
+      margin: 0.2rem 0 0;
+      font-weight: 500;
+      color: var(--gray);
+      font-size: 1.2rem;
+    }
+
+    .contact {
+      text-align: right;
+      font-size: 0.95rem;
+    }
+
+    .contact a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    section {
+      margin-bottom: 2.5rem;
+    }
+
+    section h3 {
+      background: var(--primary);
+      color: white;
+      padding: 0.4rem 0.8rem;
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+      letter-spacing: 0.5px;
+    }
+
+    p {
+      margin: 0.5rem 0;
+    }
+
+    ul {
+      margin: 0.5rem 0 0.5rem 1.2rem;
+    }
+
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+
+    .job {
+      margin-bottom: 1.5rem;
+    }
+
+    .job-header {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .job-header strong {
+      font-size: 1.05rem;
+    }
+
+    .date {
+      color: var(--gray);
+      font-size: 0.9rem;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--gray);
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Beucherie Helouri</h1>
+        <h2>Data Scientist</h2>
+      </div>
+      <div class="contact">
+        <div>📧 helouribeucherie@gmail.com</div>
+        <div>📞 06 95 27 69 42</div>
+        <div><a href="https://github.com/Hyrkules" target="_blank">GitHub</a> · <a href="http://www.linkedin.com/in/helouri-beucherie-7664121a2" target="_blank">LinkedIn</a></div>
+        <div>🚗 Permis B · Anglais B2</div>
+      </div>
+    </header>
+
+    <section>
+      <h3>Profil</h3>
+      <p>
+        Diplômé en master Intelligence Artificielle, passionné par l'innovation et la recherche de solutions
+        à forte valeur ajoutée dans les domaines de la data, du machine learning et de l'IA générative.
+      </p>
+    </section>
+
+    <section>
+      <h3>Compétences</h3>
+      <div class="skills-grid">
+        <div>
+          <strong>Langages & outils</strong>
+          <p>Python, SQL, Git, Java, Scala, C#, .NET, JavaScript, HTML, CSS, Flutter, PHP</p>
+        </div>
+        <div>
+          <strong>Data & IA</strong>
+          <p>Machine Learning, Deep Learning, LLM, RAG, Probabilités, Algèbre linéaire</p>
+        </div>
+        <div>
+          <strong>Librairies</strong>
+          <p>Scikit-learn, PyTorch, TensorFlow, HuggingFace, Pandas, NumPy, Matplotlib</p>
+        </div>
+        <div>
+          <strong>Cloud & DevOps</strong>
+          <p>AWS, Azure, GCP, Docker, Kubernetes, CI/CD</p>
+        </div>
+        <div>
+          <strong>Soft Skills</strong>
+          <p>Résoudre des problèmes complexes, communiquer, rigueur, travail d’équipe, force de proposition</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h3>Expériences professionnelles</h3>
+
+      <div class="job">
+        <div class="job-header">
+          <strong>Crédit Agricole – Data Scientist (Alternance)</strong>
+          <span class="date">2022 – 2024</span>
+        </div>
+        <ul>
+          <li>Développement d'applications d'IA générative (GenAI) : mass mailing, speech-to-text</li>
+          <li>Fine-tuning, prompt engineering et réglage d'hyperparamètres</li>
+          <li>Mise en place de solutions RAG pour la recherche documentaire</li>
+          <li>Projet de détection de fraude par reconnaissance faciale</li>
+          <li>Création d'applications de démonstration (AWS & Flutter)</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <strong>Coopérative des Tilleuls – Développeur Web</strong>
+          <span class="date">2021 – 2022</span>
+        </div>
+        <ul>
+          <li>Création de sites web vitrines (Vue / React)</li>
+          <li>Gestion d'API PHP</li>
+          <li>Travail en méthodologie Agile</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <strong>Adeo Services – Développeur Sécurité (Stage)</strong>
+          <span class="date">Juillet 2020</span>
+        </div>
+        <ul>
+          <li>Système d'envoi d'URL chiffrées avec Google Cloud Platform</li>
+          <li>Monitoring et gestion de bases de données</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h3>Formations</h3>
+      <div class="job">
+        <div class="job-header">
+          <strong>Formation Développeur .NET – M2I Formation, Villeneuve d'Ascq</strong>
+          <span class="date">2025 – 2026</span>
+        </div>
+        <ul>
+          <li>Apprentissages des langages principaux</li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+            <strong>Master Data & IA – École du Numérique, Lille</strong>
+            <span class="date">2022 – 2024</span>
+            </div>
+            <ul>
+                <li>Alternance (Crédit Agricole)</li>
+                <li>De nombreux fondamentaux sur la data</li>
+            </ul>
+        </div>
+
+      <div class="job">
+        <div class="job-header">
+            <strong>Licence Sciences du Numérique – École du Numérique, Lille</strong>
+            <span class="date">2019 – 2022</span>
+        </div>
+        <ul>
+            <li>Alternance (Coopérative des Tilleuls)</li>
+            <li>Axé développement informatique généraliste</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>
+      © 2026 – Beucherie Helouri
+    </footer>
+  </div>
+</body>
+</html>
+
+

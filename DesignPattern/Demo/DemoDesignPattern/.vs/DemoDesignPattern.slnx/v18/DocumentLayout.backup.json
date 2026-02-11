@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\decorator\\giftpapiercadeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\decorator\\giftpapiercadeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\decorator\\giftruban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\decorator\\giftruban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\factory\\cdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\factory\\cdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\decorator\\giftdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\decorator\\giftdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\factory\\cdifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\factory\\cdifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\factory\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\factory\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\designpattern\\demo\\demodesignpattern\\atelierperenoel\\factory\\igift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CB5FF-B3C0-4485-9615-856377C68789}|AtelierPereNoel\\AtelierPereNoel.csproj|solutionrelative:atelierperenoel\\factory\\igift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Program.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Program.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:15:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiftPapierCadeau.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Decorator\\GiftPapierCadeau.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Decorator\\GiftPapierCadeau.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Decorator\\GiftPapierCadeau.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Decorator\\GiftPapierCadeau.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:13:15.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDIFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\CDIFactory.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Factory\\CDIFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\CDIFactory.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Factory\\CDIFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:12:10.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CDI.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\CDI.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Factory\\CDI.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\CDI.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Factory\\CDI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:11:22.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiftDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Decorator\\GiftDecorator.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Decorator\\GiftDecorator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Decorator\\GiftDecorator.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Decorator\\GiftDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:05:27.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiftRuban.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Decorator\\GiftRuban.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Decorator\\GiftRuban.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Decorator\\GiftRuban.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Decorator\\GiftRuban.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:05:19.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGift.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\IGift.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Factory\\IGift.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\IGift.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Factory\\IGift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:05:11.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\Orange.cs",
+              "RelativeDocumentMoniker": "AtelierPereNoel\\Factory\\Orange.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\DesignPattern\\Demo\\DemoDesignPattern\\AtelierPereNoel\\Factory\\Orange.cs",
+              "RelativeToolTip": "AtelierPereNoel\\Factory\\Orange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:04:32.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

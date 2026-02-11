@@ -1,0 +1,37 @@
+﻿@model List<Produit>
+
+<h1>@ViewData["Title"]</h1>
+
+<a  asp-controller="ProduitFormulaire" asp-action="Creer">Créer un nouveau produit !</a>
+
+@if(Model == null || Model.Count == 0)
+{
+    <p>Aucun produit disponible.</p>
+    return;
+}else{
+
+
+<h2>@Model.Count produit(s)</h2>
+
+<table class="table">
+    @foreach (var produit in Model)
+    {
+        <tr>
+            <td>@produit.Id</td>
+            <td>@produit.Nom</td>
+            <td>@produit.Prix.ToString("C")</td>
+            <td>@produit.QuantiteEnStock</td>
+        </tr>
+    }
+</table>
+}
+<hr />
+
+@*Lien simple vers une action*@
+<a asp-controller="Produit" asp-action="Details" class="btn btn-primary">Voir détails d'un produit</a>
+
+@*Paramètres de route*@
+<a asp-controller="Produit" asp-action="DetailsAvecParams" asp-route-id="3" class="btn btn-info">Voir le produit #5</a>
+
+@*Liens avec plusieurs paramètres*@
+<a asp-controller="Produit" asp-action="Liste" asp-route-categorie="Electronique" asp-route-sort="prix" class="btn btn-info">Produit electroniqueeeeee</a>

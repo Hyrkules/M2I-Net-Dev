@@ -1,0 +1,82 @@
+﻿@page "/demo"
+
+<h1>🦃Demo 🦃Razor🦃</h1>
+
+<p>Nom = @nom</p>
+<p>Prenom = @prenom</p>
+<p>Age = @age</p>
+
+<p>Majeur : @(age >= 10 ? "Oui" : "Non")</p>
+<p>Dans 10 ans : @nom aura @(age+10) ans</p>
+
+@if (estConnecte)
+{
+    <div class="alert alert-success">Bienvenue @prenom @nom !</div>
+}
+else
+{
+    <div class="alert alert-danger">Veuillez vous connecter !</div>
+}
+
+<h3>🍉 Liste de fruits 🍉</h3>
+
+<ul>
+    @foreach(var fruit in fruits)
+    {
+        <li>@fruit 🦃</li>
+    }
+</ul>
+
+<h3>🔢 Comptage 🔢</h3>
+
+@for(int i = 1; i<=5; i++)
+{
+    <span class="badge bg-primary me-1">@i</span>
+}
+
+<h3>🍿 Compteur 🍿</h3>
+
+<p>Valeur : @compteur1</p>
+<boutton class="btn btn-success" @onclick="Incrementer">+1 🦃</boutton>
+
+<h3>🚨 Compteur Avec Option 🚨</h3>
+
+<p>Valeur : @compteur2</p>
+<boutton class="btn btn-success" @onclick="() => Ajouter(5)">+5 🦃</boutton>
+<boutton class="btn btn-success" @onclick="() => Ajouter(-1)">-1 🦃</boutton>
+
+<h3>Saisie</h3>
+<input type="text" class="form-control" @bind="texte"/>
+<p>Vous avez écrit : @texte</p>
+
+<h3>Saisie "bind" liaison bidirectionnelle</h3>
+<input type="text" class="form-control" @bind="texte"/>
+<p>Vous avez écrit : @texte</p>
+
+<h3>Saisie "bind" avec mise à jour instantanée</h3>
+
+<input type="text" class="form-control" @bind="texte2" @bind:event="oniput"/>
+
+@code {
+    private string texte2 = "";
+
+    private string texte = "";
+    private int compteur1 = 0;
+    private int compteur2 = 0;
+    private string nom = "🦃";
+    private string prenom = "🦃";
+    private int age = 25;
+    private bool estConnecte = true;
+
+    private List<string> fruits = new() { "Pomme", "Poire", "Orange" };
+
+    private void Incrementer()
+    {
+        compteur1++;
+    }
+
+    private void Ajouter(int valeur)
+    {
+        compteur2 += valeur;
+    }
+}

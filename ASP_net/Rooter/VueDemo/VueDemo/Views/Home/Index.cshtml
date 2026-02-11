@@ -1,0 +1,35 @@
+﻿@model string
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    var message = "Bonjour depuis Razor";
+    int nombre = 42;
+
+    var nom = "Moi";
+    var prenom = "moi";
+    var fullname = $"{nom} {prenom}";
+
+    var produits = new List<string> { "Ordi", "Clavier", "Souris" };
+    var total = 1200.25m;
+}
+<h1>@ViewData["Title"]</h1>
+<p>@message</p>
+
+<p>@Model</p>
+
+<p>le nombre est : @nombre</p>
+<p>Le double de ce nombre est @nombre*2 = @(nombre*2)</p>
+
+<hr />
+
+<h2>Bonjour @fullname</h2>
+<p>Vous avez @produits.Count produit(s) dans votre panier</p>
+<p>Total : @total.ToString("C")</p>
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

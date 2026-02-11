@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AtelierPereNoel.Factory
+{
+    internal class OrangeFactory : GiftFactory
+    {
+        public override IGift CreateGift()
+        {
+            return new Orange();
+        }
+    }
+}

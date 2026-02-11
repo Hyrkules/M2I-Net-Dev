@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\AjoutEFC\\Articles.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49870B1A-2723-BD20-94CC-8C38707DF831}|Articles.Api\\Articles.Api_AvecBDD.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\api\\ajoutefc\\articles.api\\articles.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49870B1A-2723-BD20-94CC-8C38707DF831}|Articles.Api\\Articles.Api_AvecBDD.csproj|solutionrelative:articles.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49870B1A-2723-BD20-94CC-8C38707DF831}|Articles.Api\\Articles.Api_AvecBDD.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\api\\ajoutefc\\articles.api\\articles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49870B1A-2723-BD20-94CC-8C38707DF831}|Articles.Api\\Articles.Api_AvecBDD.csproj|solutionrelative:articles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\AjoutEFC\\Articles.Api\\Articles.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Articles.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\AjoutEFC\\Articles.Api\\Articles.Api\\Program.cs",
+              "RelativeToolTip": "Articles.Api\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:01:47.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\AjoutEFC\\Articles.Api\\Articles.Api\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Articles.Api\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\API\\AjoutEFC\\Articles.Api\\Articles.Api\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Articles.Api\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAnwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:01:35.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

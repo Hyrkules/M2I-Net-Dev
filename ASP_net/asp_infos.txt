@@ -1,0 +1,31 @@
+ASP.NET -> permet "lien" front/back
+
+Framework pour le dev d'app web basé sur model(données)/view(Interface front)/controller(gestion back) MVC
+
+ASP mvc core == archi + outils
+
+ASP = Active Server Page (pages dynamiques)
+.Net = La plateforme Microsfot avec tous les outils .Net
+MVC = Model View Controller, façon d'organiser le code
+
+asp.Net core MVC transforme une requete en une page web voulu par le user
+
+ex : url/produits/details/5 ==> 
+produits => Controller; 
+details => Action; 
+5 => cet id là
+
+
+le navigateur envoie une requete http au serveur demandant de voir le produits 5
+le serveur reçoit la requête, analyse l'url
+le controlleur demande au modele de rapporter les données spécifiques au détail et à l'id
+le modele renvoie au controlleur la données
+le controlleur renvoie les données à la vue
+le user voit la page
+
+
+
+
+
+
+

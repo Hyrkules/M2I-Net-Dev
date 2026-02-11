@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\tprecipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|solutionrelative:tprecipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\tprecipe\\classes\\commentaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|solutionrelative:tprecipe\\classes\\commentaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\tprecipe\\classes\\recetteingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|solutionrelative:tprecipe\\classes\\recetteingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\tprecipe\\classes\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|solutionrelative:tprecipe\\classes\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\tprecipe\\classes\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|solutionrelative:tprecipe\\classes\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\tprecipe\\classes\\etape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|solutionrelative:tprecipe\\classes\\etape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\tprecipe\\classes\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A486C391-339D-4287-9C06-094509A9F1F0}|TPRecipe\\TPRecipe.csproj|solutionrelative:tprecipe\\classes\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36041289-3460-6B1A-9BAA-0813DA092F45}|SQL_Csharp\\SQL_Csharp.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\sql_csharp\\sql_csharp\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36041289-3460-6B1A-9BAA-0813DA092F45}|SQL_Csharp\\SQL_Csharp.csproj|solutionrelative:sql_csharp\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecetteIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\RecetteIngredient.cs",
+              "RelativeDocumentMoniker": "TPRecipe\\Classes\\RecetteIngredient.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\RecetteIngredient.cs",
+              "RelativeToolTip": "TPRecipe\\Classes\\RecetteIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:02:18.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recette.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Recette.cs",
+              "RelativeDocumentMoniker": "TPRecipe\\Classes\\Recette.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Recette.cs",
+              "RelativeToolTip": "TPRecipe\\Classes\\Recette.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:13:15.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Etape.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Etape.cs",
+              "RelativeDocumentMoniker": "TPRecipe\\Classes\\Etape.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Etape.cs",
+              "RelativeToolTip": "TPRecipe\\Classes\\Etape.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:13:04.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commentaire.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Commentaire.cs",
+              "RelativeDocumentMoniker": "TPRecipe\\Classes\\Commentaire.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Commentaire.cs",
+              "RelativeToolTip": "TPRecipe\\Classes\\Commentaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:12:55.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Categorie.cs",
+              "RelativeDocumentMoniker": "TPRecipe\\Classes\\Categorie.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Categorie.cs",
+              "RelativeToolTip": "TPRecipe\\Classes\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:12:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Ingredient.cs",
+              "RelativeDocumentMoniker": "TPRecipe\\Classes\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Classes\\Ingredient.cs",
+              "RelativeToolTip": "TPRecipe\\Classes\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:12:30.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Program.cs",
+              "RelativeDocumentMoniker": "TPRecipe\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\TPRecipe\\Program.cs",
+              "RelativeToolTip": "TPRecipe\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:06:09.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\SQL_Csharp\\Classes\\Personne.cs",
+              "RelativeDocumentMoniker": "SQL_Csharp\\Classes\\Personne.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\SQL_Csharp\\SQL_Csharp\\Classes\\Personne.cs",
+              "RelativeToolTip": "SQL_Csharp\\Classes\\Personne.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:19:27.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

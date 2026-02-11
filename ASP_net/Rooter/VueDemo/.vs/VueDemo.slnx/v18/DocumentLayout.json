@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\controllers\\produitformulairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\controllers\\produitformulairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\views\\utilisateur\\creerunutilisateur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\views\\utilisateur\\creerunutilisateur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\views\\utilisateur\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\views\\utilisateur\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\views\\produitformulaire\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\views\\produitformulaire\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\views\\produitformulaire\\creer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\views\\produitformulaire\\creer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\views\\produitformulaire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\views\\produitformulaire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\asp_net\\rooter\\vuedemo\\vuedemo\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C296B2B-2F3C-1FD7-5B36-58F6DD5831CB}|VueDemo\\VueDemo.csproj|solutionrelative:vuedemo\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreerUnUtilisateur.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Utilisateur\\CreerUnUtilisateur.cshtml",
+              "RelativeDocumentMoniker": "VueDemo\\Views\\Utilisateur\\CreerUnUtilisateur.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Utilisateur\\CreerUnUtilisateur.cshtml",
+              "RelativeToolTip": "VueDemo\\Views\\Utilisateur\\CreerUnUtilisateur.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T15:37:22.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilisateurController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Controllers\\UtilisateurController.cs",
+              "RelativeDocumentMoniker": "VueDemo\\Controllers\\UtilisateurController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Controllers\\UtilisateurController.cs",
+              "RelativeToolTip": "VueDemo\\Controllers\\UtilisateurController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:31:18.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "VueDemo\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "VueDemo\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:30:03.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\ProduitFormulaire\\Details.cshtml",
+              "RelativeDocumentMoniker": "VueDemo\\Views\\ProduitFormulaire\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\ProduitFormulaire\\Details.cshtml",
+              "RelativeToolTip": "VueDemo\\Views\\ProduitFormulaire\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T15:18:54.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "VueDemo\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Models\\Produit.cs",
+              "RelativeToolTip": "VueDemo\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:38:56.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VueDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VueDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T14:30:00.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\ProduitFormulaire\\Index.cshtml",
+              "RelativeDocumentMoniker": "VueDemo\\Views\\ProduitFormulaire\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\ProduitFormulaire\\Index.cshtml",
+              "RelativeToolTip": "VueDemo\\Views\\ProduitFormulaire\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T14:22:21.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Creer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\ProduitFormulaire\\Creer.cshtml",
+              "RelativeDocumentMoniker": "VueDemo\\Views\\ProduitFormulaire\\Creer.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\ProduitFormulaire\\Creer.cshtml",
+              "RelativeToolTip": "VueDemo\\Views\\ProduitFormulaire\\Creer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T14:02:08.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProduitFormulaireController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Controllers\\ProduitFormulaireController.cs",
+              "RelativeDocumentMoniker": "VueDemo\\Controllers\\ProduitFormulaireController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Controllers\\ProduitFormulaireController.cs",
+              "RelativeToolTip": "VueDemo\\Controllers\\ProduitFormulaireController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:56:30.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Utilisateur\\Index.cshtml",
+              "RelativeDocumentMoniker": "VueDemo\\Views\\Utilisateur\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Utilisateur\\Index.cshtml",
+              "RelativeToolTip": "VueDemo\\Views\\Utilisateur\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T15:38:06.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "VueDemo\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "VueDemo\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:37:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Produit\\Index.cshtml",
+              "RelativeDocumentMoniker": "VueDemo\\Views\\Produit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\ASP_net\\Rooter\\VueDemo\\VueDemo\\Views\\Produit\\Index.cshtml",
+              "RelativeToolTip": "VueDemo\\Views\\Produit\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T13:34:42.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\MVC\\ExoView\\ModelDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957DDF-D17A-446D-9D48-6C8674E52EA9}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\mvc\\exoview\\modeldemo\\modeldemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957DDF-D17A-446D-9D48-6C8674E52EA9}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5957DDF-D17A-446D-9D48-6C8674E52EA9}|ModelDemo\\ModelDemo.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\mvc\\exoview\\modeldemo\\modeldemo\\viewmodel\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5957DDF-D17A-446D-9D48-6C8674E52EA9}|ModelDemo\\ModelDemo.csproj|solutionrelative:modeldemo\\viewmodel\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\MVC\\ExoView\\ModelDemo\\ModelDemo\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ModelDemo\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\MVC\\ExoView\\ModelDemo\\ModelDemo\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ModelDemo\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:04:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\MVC\\ExoView\\ModelDemo\\ModelDemo\\ViewModel\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "ModelDemo\\ViewModel\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\MVC\\ExoView\\ModelDemo\\ModelDemo\\ViewModel\\ContactViewModel.cs",
+              "RelativeToolTip": "ModelDemo\\ViewModel\\ContactViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:56:29.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

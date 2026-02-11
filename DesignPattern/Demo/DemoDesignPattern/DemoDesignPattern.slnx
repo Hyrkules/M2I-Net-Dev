@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AtelierPereNoel/AtelierPereNoel.csproj" Id="ef7cb5ff-b3c0-4485-9615-856377c68789" />
+  <Project Path="DemoDesignPattern/DemoDesignPattern.csproj" />
+  <Project Path="ExoDesignPattern/ExoDesignPattern.csproj" />
+</Solution>

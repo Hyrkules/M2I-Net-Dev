@@ -1,0 +1,121 @@
+﻿@page "/register"
+@using TodoListBlazor.Dtos
+@using TodoListBlazor.Services
+@layout AuthLayout
+@inject NavigationManager Navigation
+@inject IAuthService AuthService
+
+<div class="card shadow">
+    <div class="card-body p-5">
+        <div class="text-center">
+            <h1 class="h3 fw-bold">TODOList</h1>
+            <p class="text-muted">Connectez-vous à votre compte</p>
+        </div>
+
+        @if (!string.IsNullOrEmpty(errorMessage))
+        {
+            <div class="alert alert-danger">
+                <i class="bi bi-exclamation-circle me-2">@errorMessage</i>
+            </div>
+        }
+
+        @if (!string.IsNullOrEmpty(successMessage))
+        {
+            <div class="alert alert-success">
+                <i class="bi bi-exclamation-circle me-2">@successMessage</i>
+            </div>
+        }
+
+        <EditForm Model="RegisterDto" OnValidSubmit="HandleRegister">
+            <DataAnnotationsValidator />
+
+            <ValidationSummary class="text-danger" />
+
+            <div>
+                <label class="form-label fw-semibold">Nom d'utilisateur</label>
+                <InputText class="form-control form-control-lg"
+                           placeholder="Entrez votre nom d'utilisateur"
+                           @bind-Value="RegisterDto.Username" />
+                <ValidationMessage For="@(() => RegisterDto.Username)" class="text-message" />
+            </div>
+
+            <div>
+                <label class="form-label fw-semibold">Password</label>
+                <InputText type="password" class="form-control form-control-lg"
+                           placeholder="Entrez votre mot de passe"
+                           @bind-Value="RegisterDto.ConfirmPassword" />
+                <ValidationMessage For="@(() => RegisterDto.ConfirmPassword)" class="text-message" />
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg w-100 mb-3" disabled="@IsLoading">
+                @if (IsLoading)
+                {
+                    <span class="spinner-border spinner-border-sm me-2"></span>
+                    <span>Création en cours. . .</span>
+                }
+                else
+                {
+                    <span>Créer mon compte</span>
+                }
+
+            </button>
+
+        </EditForm>
+
+        <div class="text-center">
+            <span class="text-muted">Pas encore de compte ?</span>
+            <a href="Auth/loginPage" class="text-decoration-none fw-semibold">Créer un compte</a>
+        </div>
+
+    </div>
+
+</div>
+
+@code {
+    private RegisterDto RegisterDto = new RegisterDto();
+
+    private string? errorMessage;
+
+    private string? successMessage;
+
+    private bool IsLoading = false;
+
+    private async Task HandleRegister()
+    {
+        errorMessage = null;
+        successMessage = null;
+
+        IsLoading = true;
+
+        try
+        {
+            
+            var (success, error) = await AuthService.RegisterAsync(RegisterDto);
+
+            if (success)
+            {
+                successMessage = "Compte créé avec succès ! Redirection vers la page de connection...";
+
+                await Task.Delay(1000);
+
+                Navigation.NavigateTo("Auth/LoginPage");
+            }
+            else
+            {
+                errorMessage = error;
+            }
+
+            
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            IsLoading = false;
+        }
+    }
+
+    
+}

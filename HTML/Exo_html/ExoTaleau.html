@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les tableaux</title>
+</head>
+    <body>
+        <h1>Mon Panier</h1>
+
+        <table border="1">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Quantité</th>
+                    <th>Prix</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th scope="row" rowspan="2">Pomme</th>
+                    <td>3</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <th scope="row">Mangue</th>
+                    <td>1</td>
+                    <td>3</td>
+                </tr>
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <th scope="row" colspan="2">Total</th>
+                    <td>15€</td>
+                </tr>
+            </tfoot>
+        </table>
+
+    </body>
+</html>

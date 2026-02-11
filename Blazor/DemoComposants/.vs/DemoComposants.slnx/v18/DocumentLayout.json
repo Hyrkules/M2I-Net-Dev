@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\Blazor\\DemoComposants\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC60388B-30BA-4B29-9750-BDFF03CDA471}|DemoComposants\\DemoComposants.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\blazor\\democomposants\\democomposants\\pages\\demopost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC60388B-30BA-4B29-9750-BDFF03CDA471}|DemoComposants\\DemoComposants.csproj|solutionrelative:democomposants\\pages\\demopost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC60388B-30BA-4B29-9750-BDFF03CDA471}|DemoComposants\\DemoComposants.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\blazor\\democomposants\\democomposants\\pages\\demohttpclient.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC60388B-30BA-4B29-9750-BDFF03CDA471}|DemoComposants\\DemoComposants.csproj|solutionrelative:democomposants\\pages\\demohttpclient.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoPost.razor",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\Blazor\\DemoComposants\\DemoComposants\\Pages\\DemoPost.razor",
+              "RelativeDocumentMoniker": "DemoComposants\\Pages\\DemoPost.razor",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\Blazor\\DemoComposants\\DemoComposants\\Pages\\DemoPost.razor",
+              "RelativeToolTip": "DemoComposants\\Pages\\DemoPost.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T14:54:32.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoHttpClient.razor",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\Blazor\\DemoComposants\\DemoComposants\\Pages\\DemoHttpClient.razor",
+              "RelativeDocumentMoniker": "DemoComposants\\Pages\\DemoHttpClient.razor",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\Blazor\\DemoComposants\\DemoComposants\\Pages\\DemoHttpClient.razor",
+              "RelativeToolTip": "DemoComposants\\Pages\\DemoHttpClient.razor",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T13:27:15.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

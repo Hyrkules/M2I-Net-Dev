@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ExoFonction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ExoFonction.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ExoFonction.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ExoFonction.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\bin\Debug\net10.0\ExoFonction.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\bin\Debug\net10.0\ExoFonction.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\bin\Debug\net10.0\ExoFonction.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\bin\Debug\net10.0\ExoFonction.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\bin\Debug\net10.0\ExoFonction.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ExoFonction.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\refint\ExoFonction.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ExoFonction.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ExoFonction.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExoFonction\ExoFonction\obj\Debug\net10.0\ref\ExoFonction.dll

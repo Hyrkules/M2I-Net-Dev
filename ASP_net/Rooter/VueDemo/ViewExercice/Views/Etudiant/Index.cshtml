@@ -1,0 +1,27 @@
+﻿@model List<Etudiant>
+
+@{
+    var moyenne = Model.Average(e => e.Note);
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h2>@Model.Count etudiant(s) dans la classe</h2>
+
+<table class="table">
+    @foreach (var produit in Model)
+    {
+        <tr>
+            <td>@produit.Id</td>
+            <td>@produit.Nom</td>
+            <td>@produit.Prenom</td>
+            @if (produit.Note >= 16){
+                <td class="badge text-bg-warning">@produit.Note.ToString() : Excellent</td>
+            }else if(produit.Note < 10){
+            <td class="badge text-bg-danger">@produit.Note.ToString() : Non Admis</td>
+            }else{
+            <td class="badge text-bg-success">@produit.Note.ToString() : Admis</td>
+            }
+        </tr>
+    }
+</table>

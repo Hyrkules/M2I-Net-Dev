@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\bin\Debug\net10.0\ExoGestionPaiement.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\bin\Debug\net10.0\ExoGestionPaiement.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\bin\Debug\net10.0\ExoGestionPaiement.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\bin\Debug\net10.0\ExoGestionPaiement.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\bin\Debug\net10.0\ExoGestionPaiement.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ExoGestionPaiement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ExoGestionPaiement.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ExoGestionPaiement.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ExoGestionPaiement.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ExoGestionPaiement.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\refint\ExoGestionPaiement.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ExoGestionPaiement.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ExoGestionPaiement.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\ExClasses\ExoGestionPaiement\obj\Debug\net10.0\ref\ExoGestionPaiement.dll

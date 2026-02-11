@@ -1,0 +1,1 @@
+Le rooting permet de vérifier l'url et choisit l'action + méthode

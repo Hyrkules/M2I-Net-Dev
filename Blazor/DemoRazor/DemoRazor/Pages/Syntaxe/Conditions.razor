@@ -1,0 +1,24 @@
+﻿@page "/syntaxe/conditions"
+@layout SyntaxeLayout
+
+<PageTitle>Conditions</PageTitle>
+
+<select>
+    <option value="1">Débutant</option>
+    <option value="2">Intermédiare</option>
+    <option value="3">Avancé</option>
+</select>
+
+@if (niveau == 1)
+{
+    <p class="alert alert-success">OK</p>
+}
+else if (niveau == 2)
+{
+    <p class="alert alert-danger">PAS OK</p>
+}
+
+@code {
+    private int niveau;
+    private bool EstConnecte = true;
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Etudiants/Etudiants.csproj" Id="ab003ce3-92e2-47c6-956d-7de0953e2cfa" />
+  <Project Path="SQL_Csharp/SQL_Csharp.csproj" />
+  <Project Path="TPRecipe/TPRecipe.csproj" Id="a486c391-339d-4287-9c06-094509a9f1f0" />
+</Solution>

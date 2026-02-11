@@ -1,0 +1,38 @@
+﻿@page "/syntaxe/binding"
+@layout SyntaxeLayout
+
+<h3>Binding</h3>
+
+<h3>Saisie</h3>
+<input type="text" class="form-control" @bind="Nom" />
+<p>Vous avez écrit : @Nom</p>
+
+<h3>Saisie "bind" liaison bidirectionnelle</h3>
+<input type="text" class="form-control" @bind="Email" />
+<p>Vous avez écrit : @Email</p>
+
+<h3>Saisie "bind" liaison bidirectionnelle</h3>
+<input type="text" class="form-control" @bind="Age" />
+<p>Vous avez écrit : @Age</p>
+
+<label>J'accepte les conditions</label>
+<input type="checkbox" @bind="accepte" />
+<button disabled="@(!accepte)">Valider</button>
+
+<div>Aperçu des données : </div>
+<table>
+    <tr><th>Nom</th><td>@Nom</td></tr>
+    <tr><th>Email</th><td>@Email</td></tr>
+    <tr><th>Age</th><td>@Age</td></tr>
+    <tr><th>Conditions Acceptées</th><td>@(accepte ? "Oui" : "Non")</td></tr>
+
+</table>
+
+@code {
+    public string Nom = "";
+    public string Email = "";
+    public int Age;
+
+    private bool accepte = false;
+
+}

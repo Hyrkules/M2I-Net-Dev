@@ -1,0 +1,24 @@
+﻿@page "/syntaxe/variables"
+@layout SyntaxeLayout
+
+<PageTitle>Variables</PageTitle>
+
+<h1>Variables !!</h1>
+
+<p>Nom est : @Nom</p>
+<p>Age * 2 est : @(Age*2)</p>
+
+@if (Age >= 18)
+{
+    <p>Est Majeur</p>
+}
+else
+{
+<p>N'est pas Majeur</p>
+}
+
+@code {
+    public string Nom = "🦃";
+    public int Age = 10;
+    public DateTime DateNaissance = new DateTime(2026-01-01);
+}
