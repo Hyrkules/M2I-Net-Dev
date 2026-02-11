@@ -12,3 +12,4 @@ C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPa
 C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\AtelierPereNoel\obj\Debug\net10.0\AtelierPereNoel.pdb
 C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\AtelierPereNoel\obj\Debug\net10.0\AtelierPereNoel.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\AtelierPereNoel\obj\Debug\net10.0\ref\AtelierPereNoel.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\DesignPattern\Demo\DemoDesignPattern\AtelierPereNoel\obj\Debug\net10.0\AtelierPereNoel.sourcelink.json

@@ -4,8 +4,11 @@ using System.Text;
 
 namespace AtelierPereNoel.Factory
 {
-    internal abstract class CDIFactory
+    internal class CDIFactory : GiftFactory
     {
-        public abstract IGift CreateCDI();
+        public override IGift CreateGift()
+        {
+            return new CDI();
+        }
     }
 }

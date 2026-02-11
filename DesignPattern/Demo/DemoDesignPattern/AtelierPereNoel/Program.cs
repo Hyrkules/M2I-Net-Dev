@@ -5,20 +5,38 @@
 
 using AtelierPereNoel.Decorator;
 using AtelierPereNoel.Factory;
+using AtelierPereNoel.Observer;
 
 var bigFactory = new BigFactory();
+var event1 = new LutinManager();
+
 bigFactory.AjouterFactory("orange", new OrangeFactory());
+event1.AddObserver(new EmballageObserver());
+event1.CreateEvent("Production de l'orange");
 
 var a1 = bigFactory.ProduireGift("orange");
 
+event1.CreateEvent("Ajout du ruban");
 var a1Ruban = new GiftRuban(a1);
 
-a1Ruban.Emballer();
+event1.CreateEvent("Emballage");
+var a1Papier = new GiftPapierCadeau(a1Ruban);
 
-//bigFactory.AjouterFactory("orange", new OrangeFactory());
+event1.CreateEvent("Affichage");
+a1Papier.Emballer();
 
-//var a2 = bigFactory.ProduireGift("orange");
+var event2 = new LutinManager();
+bigFactory.AjouterFactory("CDI", new CDIFactory());
+event2.AddObserver(new EmballageObserver());
+event2.CreateEvent("Production d'un CDI");
 
-var a2Papier = new GiftPapierCadeau(a1Ruban);
+var a2 = bigFactory.ProduireGift("CDI");
 
-a2Papier.Emballer();
+event2.CreateEvent("Ajout du ruban");
+var a2Ruban = new GiftRuban(a2);
+
+
+event2.CreateEvent("Affichage");
+a2Ruban.Emballer();
+
+
