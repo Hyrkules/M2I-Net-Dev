@@ -12,9 +12,8 @@ namespace AtelierPereNoel.Decorator
         {
                 _ruban = "Ruban";
         }
-        public override void Emballer() {
-            base.Emballer();
-            Console.WriteLine("avec un ruban !"); 
+        public override string Emballer() {
+            return base.Emballer() + "avec un ruban !"; 
         }
 
     }

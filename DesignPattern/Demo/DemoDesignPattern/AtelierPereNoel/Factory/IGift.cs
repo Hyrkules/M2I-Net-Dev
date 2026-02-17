@@ -6,6 +6,6 @@ namespace AtelierPereNoel.Factory
 {
     internal interface IGift
     {
-        void Emballer();
+        string Emballer();
     }
 }

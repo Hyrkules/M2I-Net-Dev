@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtelierPereNoel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dff297a554839dc4dda763437824cede880c2a36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1214f8d7a90e35693f892eb7c95707bad81d76b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtelierPereNoel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtelierPereNoel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

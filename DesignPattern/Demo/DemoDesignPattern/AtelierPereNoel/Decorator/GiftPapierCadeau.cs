@@ -12,10 +12,9 @@ namespace AtelierPereNoel.Decorator
         {
                 _papierCadeau = "Papier Cadeau";
         }
-        public override void Emballer()
+        public override string Emballer()
         {
-            base.Emballer();
-            Console.WriteLine("avec du papier cadeau !");
+            return base.Emballer() + "avec du papier cadeau !";
         }
     }
 }

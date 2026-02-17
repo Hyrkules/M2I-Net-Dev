@@ -6,9 +6,9 @@ namespace AtelierPereNoel.Factory
 {
     internal class CDI : IGift
     {
-        public void Emballer()
+        public string Emballer()
         {
-            Console.WriteLine("Chouette enfin un CDI");
+            return "Chouette enfin un CDI";
         }
     }
 }

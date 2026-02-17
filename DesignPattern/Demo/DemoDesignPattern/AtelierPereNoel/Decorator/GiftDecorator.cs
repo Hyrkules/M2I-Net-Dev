@@ -14,6 +14,6 @@ namespace AtelierPereNoel.Decorator
             this.Gift = Gift;
         }
 
-        public virtual void Emballer() => Gift.Emballer();
+        public virtual string Emballer() => Gift.Emballer();
     }
 }

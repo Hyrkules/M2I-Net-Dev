@@ -1,0 +1,14 @@
+FROM ubuntu:latest
+
+RUN apt update -y
+
+RUN apt-get -y install nginx
+
+# COPY default /etc/nginx/sites-available/default
+
+EXPOSE 80/tcp
+
+COPY ./index.html /tmp/index.html
+
+CMD [ "/bin/bash" ]
+

@@ -1,0 +1,6 @@
+@WebAPiDocker_HostAddress = http://localhost:5260
+
+GET {{WebAPiDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

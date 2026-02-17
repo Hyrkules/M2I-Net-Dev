@@ -6,9 +6,9 @@ namespace AtelierPereNoel.Factory
 {
     internal class Orange : IGift
     {
-        public void Emballer()
+        public string Emballer()
         {
-            Console.WriteLine("Une bien belle orange !");
+            return "Une bien belle orange !";
         }
     }
 }
