@@ -3,6 +3,34 @@ namespace TestTDD.test;
 [TestClass]
 public class CalculTest
 {
+    private Calcul _calcul;
+
+    [ClassInitialize] //Avant les test
+    public void OneTimeSetup(TestContext context)
+    {
+        _calcul = new Calcul();
+    }
+
+    [ClassCleanup] // Après les test
+    public void OneTimeTearDown(TestContext context)
+    {
+        _calcul = null;
+    }
+
+    [TestInitialize] //Avant chaque test
+    public void SetUp(TestContext context)
+    {
+        _calcul = new Calcul();
+    }
+
+    [TestCleanup] // Après chaque test test
+    public void TearDown(TestContext context)
+    {
+        _calcul = null;
+    }
+
+
+
     [TestMethod]
     public void WhenAddition_42_7_Then_49()
     {

@@ -20,6 +20,7 @@ namespace ExoGradeTDD.Test
             Assert.AreEqual('A', grade);
         }
 
+
         [TestMethod]
         public void WhenScore_85_Presence_90_Then_B()
         {

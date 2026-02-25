@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExoGradeTDD.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7c239fe7dd7f51b0cb7f4b3c36850edde15df41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9e13f67ac1a1b8240fc31ba16dfb1f6bfc0e7a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExoGradeTDD.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExoGradeTDD.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
