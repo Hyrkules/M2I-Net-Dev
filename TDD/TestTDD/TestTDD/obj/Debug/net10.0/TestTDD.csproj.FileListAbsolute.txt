@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\bin\Debug\net10.0\TestTDD.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\bin\Debug\net10.0\TestTDD.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\bin\Debug\net10.0\TestTDD.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\bin\Debug\net10.0\TestTDD.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\bin\Debug\net10.0\TestTDD.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.sourcelink.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\refint\TestTDD.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\TestTDD.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\TestTDD\TestTDD\obj\Debug\net10.0\ref\TestTDD.dll

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A056E0-8926-D993-39E9-FF725A952DE0}|TestTDD.test\\TestTDD.test.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\testtdd\\testtdd.test\\calcultest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A056E0-8926-D993-39E9-FF725A952DE0}|TestTDD.test\\TestTDD.test.csproj|solutionrelative:testtdd.test\\calcultest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B170BE7-60E3-F718-A6F5-408F76AE4E19}|TestTDD\\TestTDD.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\testtdd\\testtdd\\calcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B170BE7-60E3-F718-A6F5-408F76AE4E19}|TestTDD\\TestTDD.csproj|solutionrelative:testtdd\\calcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B170BE7-60E3-F718-A6F5-408F76AE4E19}|TestTDD\\TestTDD.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\testtdd\\testtdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B170BE7-60E3-F718-A6F5-408F76AE4E19}|TestTDD\\TestTDD.csproj|solutionrelative:testtdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A056E0-8926-D993-39E9-FF725A952DE0}|TestTDD.test\\TestTDD.test.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\testtdd\\testtdd.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A056E0-8926-D993-39E9-FF725A952DE0}|TestTDD.test\\TestTDD.test.csproj|solutionrelative:testtdd.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD.test\\CalculTest.cs",
+              "RelativeDocumentMoniker": "TestTDD.test\\CalculTest.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD.test\\CalculTest.cs",
+              "RelativeToolTip": "TestTDD.test\\CalculTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:03:14.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD.test\\Test1.cs",
+              "RelativeDocumentMoniker": "TestTDD.test\\Test1.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD.test\\Test1.cs",
+              "RelativeToolTip": "TestTDD.test\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:59:49.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calcul.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD\\Calcul.cs",
+              "RelativeDocumentMoniker": "TestTDD\\Calcul.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD\\Calcul.cs",
+              "RelativeToolTip": "TestTDD\\Calcul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:53:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD\\Program.cs",
+              "RelativeDocumentMoniker": "TestTDD\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TestTDD\\TestTDD\\Program.cs",
+              "RelativeToolTip": "TestTDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:52:54.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

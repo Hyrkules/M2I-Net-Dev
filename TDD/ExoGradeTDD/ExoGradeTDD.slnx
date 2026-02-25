@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExoGradeTDD.Test/ExoGradeTDD.Test.csproj" />
+  <Project Path="ExoGradeTDD/ExoGradeTDD.csproj" />
+</Solution>

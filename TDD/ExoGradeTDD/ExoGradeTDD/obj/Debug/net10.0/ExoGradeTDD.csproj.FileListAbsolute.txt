@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\bin\Debug\net10.0\ExoGradeTDD.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\bin\Debug\net10.0\ExoGradeTDD.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\bin\Debug\net10.0\ExoGradeTDD.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\bin\Debug\net10.0\ExoGradeTDD.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\bin\Debug\net10.0\ExoGradeTDD.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.sourcelink.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\refint\ExoGradeTDD.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ExoGradeTDD.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\ExoGradeTDD\ExoGradeTDD\obj\Debug\net10.0\ref\ExoGradeTDD.dll

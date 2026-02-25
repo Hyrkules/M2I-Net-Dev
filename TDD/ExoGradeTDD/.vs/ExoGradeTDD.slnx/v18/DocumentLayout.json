@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6539CFD4-F748-6719-B1EB-32AF3FC3D0F2}|ExoGradeTDD.Test\\ExoGradeTDD.Test.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\exogradetdd\\exogradetdd.test\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6539CFD4-F748-6719-B1EB-32AF3FC3D0F2}|ExoGradeTDD.Test\\ExoGradeTDD.Test.csproj|solutionrelative:exogradetdd.test\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CF7EF0-66C7-AAB0-06A6-3FEF6CB4A0F8}|ExoGradeTDD\\ExoGradeTDD.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\exogradetdd\\exogradetdd\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CF7EF0-66C7-AAB0-06A6-3FEF6CB4A0F8}|ExoGradeTDD\\ExoGradeTDD.csproj|solutionrelative:exogradetdd\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CF7EF0-66C7-AAB0-06A6-3FEF6CB4A0F8}|ExoGradeTDD\\ExoGradeTDD.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\exogradetdd\\exogradetdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CF7EF0-66C7-AAB0-06A6-3FEF6CB4A0F8}|ExoGradeTDD\\ExoGradeTDD.csproj|solutionrelative:exogradetdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradingCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoGradeTDD.Test\\GradingCalculator.cs",
+              "RelativeDocumentMoniker": "ExoGradeTDD.Test\\GradingCalculator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoGradeTDD.Test\\GradingCalculator.cs",
+              "RelativeToolTip": "ExoGradeTDD.Test\\GradingCalculator.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:47:50.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradingCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoGradeTDD\\GradingCalculator.cs",
+              "RelativeDocumentMoniker": "ExoGradeTDD\\GradingCalculator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoGradeTDD\\GradingCalculator.cs",
+              "RelativeToolTip": "ExoGradeTDD\\GradingCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:47:14.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoGradeTDD\\Program.cs",
+              "RelativeDocumentMoniker": "ExoGradeTDD\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoGradeTDD\\Program.cs",
+              "RelativeToolTip": "ExoGradeTDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:46:52.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
