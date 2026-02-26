@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Demo2TDD.Test/Demo2TDD.Test.csproj" Id="fa23b899-4a96-427a-8056-f74044a36ef8" />
+  <Project Path="Demo2TDD/Demo2TDD.csproj" Id="90c5909b-bb6f-459c-a09d-1a0407ff8e01" />
   <Project Path="TestTDD.test/TestTDD.test.csproj" />
   <Project Path="TestTDD/TestTDD.csproj" />
 </Solution>

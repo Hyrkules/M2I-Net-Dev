@@ -35,6 +35,8 @@ public class FibTest
 
     //    var expected = new List<int> { 0, 1, 1, 2, 3, 5 };
     //    CollectionAssert.AreEquivalent(expected, results);
+
+    //    Assert.AreEquivalent(results, results.Sort());
     //}
 
     [DataTestMethod]
