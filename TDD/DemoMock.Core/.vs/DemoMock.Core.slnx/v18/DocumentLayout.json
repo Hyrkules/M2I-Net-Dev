@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\DemoMock.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793FB8B4-8C49-401F-AF7A-96AD4C7019C5}|DemoMock.Core\\DemoMock.Core.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\demomock.core\\demomock.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793FB8B4-8C49-401F-AF7A-96AD4C7019C5}|DemoMock.Core\\DemoMock.Core.csproj|solutionrelative:demomock.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793FB8B4-8C49-401F-AF7A-96AD4C7019C5}|DemoMock.Core\\DemoMock.Core.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\demomock.core\\demomock.core\\demomock.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{793FB8B4-8C49-401F-AF7A-96AD4C7019C5}|DemoMock.Core\\DemoMock.Core.csproj|solutionrelative:demomock.core\\demomock.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoMock.Core",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\DemoMock.Core\\DemoMock.Core\\DemoMock.Core.csproj",
+              "RelativeDocumentMoniker": "DemoMock.Core\\DemoMock.Core.csproj",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\DemoMock.Core\\DemoMock.Core\\DemoMock.Core.csproj",
+              "RelativeToolTip": "DemoMock.Core\\DemoMock.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T09:09:06.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\DemoMock.Core\\DemoMock.Core\\Program.cs",
+              "RelativeDocumentMoniker": "DemoMock.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\DemoMock.Core\\DemoMock.Core\\Program.cs",
+              "RelativeToolTip": "DemoMock.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:55:53.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

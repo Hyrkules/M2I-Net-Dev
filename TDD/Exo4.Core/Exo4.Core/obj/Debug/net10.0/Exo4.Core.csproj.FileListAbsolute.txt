@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\bin\Debug\net10.0\Exo4.Core.exe
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\bin\Debug\net10.0\Exo4.Core.deps.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\bin\Debug\net10.0\Exo4.Core.runtimeconfig.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\bin\Debug\net10.0\Exo4.Core.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\bin\Debug\net10.0\Exo4.Core.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.sourcelink.json
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\refint\Exo4.Core.dll
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.pdb
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\Exo4.Core.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\cours M2I\.NET\TDD\Exo4.Core\Exo4.Core\obj\Debug\net10.0\ref\Exo4.Core.dll

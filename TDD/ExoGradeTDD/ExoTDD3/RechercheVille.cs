@@ -8,7 +8,12 @@ namespace ExoTDD3
 {
     public class RechercheVille
     {
-        private List<string> _villes = new List<string> { "Budapest", "Valence", "Vancouver" };
+        private List<string> _villes ;
+
+        public RechercheVille(List<string> villes)
+        {
+            _villes = villes;
+        }
 
         public List<string> Rechercher(string mot)
         {

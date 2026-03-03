@@ -39,3 +39,13 @@ Publication (Obligatoirement depuis compte entreprise)
 	- Photo ?
 	- Date de publication
 	- Lieu sur la carte ?
+
+
+Etape 1 => Création de la page de détail de l'entreprise
+Etape 2 => Création de la carte intéractive
+Etape 3 => Création de la page de publication
+Etape 4 => Création de la page de connexion
+Etape 5 => Création de la page de création de compte
+Etape 6 => Création de la gestion de message
+Etape 7 => Création du fil d'actualité
+Etape 8 => Création de la base de données

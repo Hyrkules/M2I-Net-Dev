@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Exo4.Core/Exo4.Core.csproj" />
+  <Project Path="Exo4.Test/Exo4.Test.csproj" />
+</Solution>

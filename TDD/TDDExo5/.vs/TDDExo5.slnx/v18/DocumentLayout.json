@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\tddexo5\\tddexo5\\interface\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|solutionrelative:tddexo5\\interface\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\tddexo5\\tddexo5\\interface\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|solutionrelative:tddexo5\\interface\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\tddexo5\\tddexo5\\interface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|solutionrelative:tddexo5\\interface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1B1E57-4BF0-D5C3-8028-3212EBD986F9}|TDDExo5.Test\\TDDExo5.Test.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\tddexo5\\tddexo5.test\\subscriptionservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1B1E57-4BF0-D5C3-8028-3212EBD986F9}|TDDExo5.Test\\TDDExo5.Test.csproj|solutionrelative:tddexo5.test\\subscriptionservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\tddexo5\\tddexo5\\plantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|solutionrelative:tddexo5\\plantype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\tddexo5\\tddexo5\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|solutionrelative:tddexo5\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|c:\\users\\administrateur\\documents\\cours m2i\\.net\\tdd\\tddexo5\\tddexo5\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5722105-B63C-8CB5-7C88-7D9E08BD6A6B}|TDDExo5\\TDDExo5.csproj|solutionrelative:tddexo5\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Interface\\ISubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "TDDExo5\\Interface\\ISubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Interface\\ISubscriptionRepository.cs",
+              "RelativeToolTip": "TDDExo5\\Interface\\ISubscriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:30:28.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPaymentGateway.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Interface\\IPaymentGateway.cs",
+              "RelativeDocumentMoniker": "TDDExo5\\Interface\\IPaymentGateway.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Interface\\IPaymentGateway.cs",
+              "RelativeToolTip": "TDDExo5\\Interface\\IPaymentGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:30:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Interface\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "TDDExo5\\Interface\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Interface\\IEmailSender.cs",
+              "RelativeToolTip": "TDDExo5\\Interface\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:30:07.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\PlanType.cs",
+              "RelativeDocumentMoniker": "TDDExo5\\PlanType.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\PlanType.cs",
+              "RelativeToolTip": "TDDExo5\\PlanType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:12:39.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Subscription.cs",
+              "RelativeDocumentMoniker": "TDDExo5\\Subscription.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\Subscription.cs",
+              "RelativeToolTip": "TDDExo5\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:11:48.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "TDDExo5\\SubscriptionService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5\\SubscriptionService.cs",
+              "RelativeToolTip": "TDDExo5\\SubscriptionService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:00:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5.Test\\SubscriptionServiceTest.cs",
+              "RelativeDocumentMoniker": "TDDExo5.Test\\SubscriptionServiceTest.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\TDDExo5\\TDDExo5.Test\\SubscriptionServiceTest.cs",
+              "RelativeToolTip": "TDDExo5.Test\\SubscriptionServiceTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:56:34.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,8 @@ using Moq;
 
 namespace Exo4.Test
 {
-    internal class FrameTest
+    [TestClass]
+    public class FrameTest
     {
         [TestMethod]
         public void Roll_SimpleFrame_FirstRoll_CheckScore()

@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "ExoTDD3.Test\\RechercherVilleTest.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoTDD3.Test\\RechercherVilleTest.cs",
               "RelativeToolTip": "ExoTDD3.Test\\RechercherVilleTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T09:20:43.137Z",
               "EditorCaption": ""
@@ -77,7 +77,7 @@
               "RelativeDocumentMoniker": "ExoTDD3\\RechercheVille.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\cours M2I\\.NET\\TDD\\ExoGradeTDD\\ExoTDD3\\RechercheVille.cs",
               "RelativeToolTip": "ExoTDD3\\RechercheVille.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T09:20:00.811Z",
               "EditorCaption": ""
@@ -92,8 +92,7 @@
               "RelativeToolTip": "ExoTDD3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T09:17:38.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T09:17:38.972Z"
             },
             {
               "$type": "Document",
@@ -105,8 +104,7 @@
               "RelativeToolTip": "ExoGradeTDD.Test\\FibTest.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:56:39.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:56:39.489Z"
             },
             {
               "$type": "Document",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "ExoGradeTDD\\Fib.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:56:09.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:56:09.479Z"
             },
             {
               "$type": "Document",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exo4.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc07543d05f5303a45729c99806ab700b15fb3b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9df21faebfa9dce321bb8b6e090ee8f3de6063be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exo4.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exo4.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
